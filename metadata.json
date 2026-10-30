@@ -1,0 +1,6 @@
+{
+  "name": "QUIZ MASTER",
+  "description": "Learn • Practice • Test • Improve — 100% Offline Multilingual Competitive Examination Quiz Application in Bengali, English, and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
